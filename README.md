@@ -1,4 +1,4 @@
-### Olá sou Joel Ubaldo!
+### Olá! sou Joel Ubaldo
 
 
 - 🔭 Estou migrando de area para desenvolvedor
