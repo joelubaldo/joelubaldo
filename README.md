@@ -1,5 +1,5 @@
 
-### Olá Eu Sou o Joel Ubaldo 🤝
+### Olá! Eu Sou o Joel Ubaldo 🤝
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ubaldo-52b42274/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jm.ubaldo12/)
